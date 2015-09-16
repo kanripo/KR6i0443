@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說護淨經
+#+DATE: 2015-08-30 20:19:44.108763
+#+PROPERTY: JUAN 0
