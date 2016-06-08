@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:43.905302
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:37
 #+TITLE: 佛說護淨經
 #+PROPERTY: CBETA_ID T17n0748
 #+PROPERTY: ID KR6i0443
